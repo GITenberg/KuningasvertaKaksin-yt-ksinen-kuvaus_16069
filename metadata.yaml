@@ -1,0 +1,28 @@
+_repo: KuningasvertaKaksin-yt-ksinen-kuvaus_16069
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Herlevi, Helvi
+    birthdate: 1898
+    deathdate: 1927
+    gutenberg_agent_id: '6467'
+    url: http://www.gutenberg.org/2009/agents/6467
+description: ''
+gutenberg_issued: '2005-06-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '16069'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PH'
+- !lcsh 'Drama'
+title: 'Kuningasverta
+
+  Kaksinäytöksinen kuvaus'
+url: http://www.gutenberg.org/ebooks/16069
