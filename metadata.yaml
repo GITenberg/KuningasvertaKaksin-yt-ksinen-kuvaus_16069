@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '6467'
     url: http://www.gutenberg.org/2009/agents/6467
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/16069#KuningasvertaKaksin-yt-ksinen-kuvaus
 gutenberg_issued: '2005-06-14'
 gutenberg_type: Text
 identifiers:
